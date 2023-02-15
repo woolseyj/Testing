@@ -1,7 +1,7 @@
 # Testing
 Repository used for testing purposes.
 
-## GitHub Desktop Operation Testing
+## GitHub Testing
 This is just a simple test.
 
 ## [test.py](sensor.py) Program
